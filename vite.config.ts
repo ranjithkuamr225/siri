@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/educational-platform/', // Add this line for GitHub Pages deployment
+  base: '/siri/', // Add this line for GitHub Pages deployment
 });
